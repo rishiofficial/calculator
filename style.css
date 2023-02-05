@@ -1,0 +1,44 @@
+#text{
+    text-align: center;
+}
+.row{
+    margin: 8px 0;
+}
+.button{
+    border: 2px solid white;
+    margin: 0 3px;
+    width: 66px;
+    padding: 20px;
+    border-radius: 9px;
+    cursor: pointer;
+    background-color: rgb(30, 26, 20);
+    color: white;
+
+}
+#input{
+    border: 2px solid black;
+    width: 291px;
+    font-size: 20px;
+    /* margin: 0; */
+    padding: 10px 10px;
+    border-radius: 5px;
+}
+/* .flex{
+    display: flex;
+    flex-direction: column;
+} */
+ /* .container{
+    justify-content: center;
+    align-items: center;
+}  */
+.container{
+    border: 4px solid black;
+    padding: 23px;
+    border-radius: 53px;
+     display: inline-block;
+     background-color: rgb(123, 122, 119);
+}
+ .calc{
+    text-align: center;
+    margin-top: 23px;
+} 
